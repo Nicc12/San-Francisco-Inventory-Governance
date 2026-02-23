@@ -8,6 +8,12 @@ This project displays my ability to create a dashboard in Excel, utilizing data 
 * Excel
 
 ### Repository Information 📄
-This repository includes [] files:
+This repository includes 6 files:
+* README.md is what you are reading now and explains information associated with the project.
+* Housing_Pipline.csv is the original uncleaned dataset.
+* housing_data_cleaned.csv is the cleaned dataset.
+* SF Planning Data Inventory & Governance(1).ipynb is the juypter notebook associate with the cleaning of the data in python.
+* SF Planning Data Inventory and Governance.xlsx is the dashboard and excel file used to build the dashboard.
+* SF_project_Dashboard.png is the image of the dashboard created in Excel which can also be seen below.
 
 ![Image](SF_Project_Dashboard.png)
