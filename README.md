@@ -7,6 +7,8 @@ This project displays my ability to create a dashboard in Excel, utilizing data 
 * Python/JupyterNotebook
 * Excel
 
+--- 
+
 ### Repository Information 📄
 This repository includes 6 files:
 * README.md is what you are reading now and explains information associated with the project.
@@ -17,3 +19,6 @@ This repository includes 6 files:
 * SF_project_Dashboard.png is the image of the dashboard created in Excel which can also be seen below.
 
 ![Image](SF_Project_Dashboard.png)
+
+
+
